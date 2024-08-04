@@ -14,7 +14,7 @@
             disabled
           >
             <div class="title-bar">
-              <img class="logo" src="../../public/logo.png" />
+              <img class="logo" src="/logo.png" />
               <div class="olecode-vue3">OleCode-Vue3</div>
             </div>
           </a-menu-item>

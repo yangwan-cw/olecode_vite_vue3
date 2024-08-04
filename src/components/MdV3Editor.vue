@@ -46,7 +46,7 @@
 
 <script lang="ts" setup>
 // import { onUploadImg, shareCodeApi } from "../util/api";
-import { defineProps, onMounted, reactive, ref, withDefaults } from "vue";
+import { onMounted, reactive, ref } from "vue";
 
 import { MdEditor, ToolbarNames } from "md-editor-v3";
 import "md-editor-v3/lib/style.css";

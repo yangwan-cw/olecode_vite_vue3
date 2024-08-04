@@ -38,11 +38,9 @@
     "eslint-plugin-vue": "^8.0.3",
     "less": "^4.2.0",
     "less-loader": "^12.2.0",
-    "node-stdlib-browser": "^1.2.0",
     "openapi-typescript-codegen": "^0.29.0",
     "prettier": "^2.4.1",
     "typescript": "~4.5.5",
-    "vite": "^3.2.1",
-    "vite-plugin-node-stdlib-browser": "^0.2.1"
+    "vite": "^3.2.1"
   }
 }

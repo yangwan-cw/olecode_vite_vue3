@@ -70,7 +70,7 @@
 </template>
 
 <script lang="ts" setup>
-import { defineProps, onMounted, ref, withDefaults } from "vue";
+import { onMounted, ref } from "vue";
 import {
   QuestionSubmitAddRequest,
   QuestionVO,

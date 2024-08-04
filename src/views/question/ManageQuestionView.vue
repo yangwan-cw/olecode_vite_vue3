@@ -1,6 +1,6 @@
 <template>
   <div id="manageQuestionView">
-    <div class="top_operation">
+    <div class="eration">
       <AddQuestion
         :initial="editData"
         :visible="drawerVisible"
@@ -182,7 +182,7 @@ watchEffect(() => {
 });
 </script>
 
-<style scoped>
+<style  lang="less" scoped>
 #manageQuestionView {
   .top_operation {
     display: flex;

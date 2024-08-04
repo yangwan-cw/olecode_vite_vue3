@@ -5,7 +5,7 @@
     "jsx": "preserve",
     "moduleResolution": "node",
     "lib": ["esnext", "dom", "webworker"],
-    "baseUrl": "./",
+    "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]
     }
