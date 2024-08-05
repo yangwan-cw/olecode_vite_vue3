@@ -19,6 +19,9 @@ import { onMounted } from "vue";
 import { useRoute } from "vue-router";
 
 const router = useRoute();
+/**
+ * 初始化
+ */
 const init = () => {
   console.log(router.path.startsWith("/user"));
 };
