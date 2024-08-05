@@ -20,7 +20,7 @@ export type OpenAPIConfig = {
 };
 
 export const OpenAPI: OpenAPIConfig = {
-  BASE: "http://124.70.54.99:8181/",
+  BASE: "http://124.70.54.99:8181",
   VERSION: "1.0.1",
   WITH_CREDENTIALS: true,
   CREDENTIALS: "include",
